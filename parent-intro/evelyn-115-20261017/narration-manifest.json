@@ -1,0 +1,105 @@
+{
+  "voice": {
+    "provider": "NaturalReaders Commercial",
+    "name": "Evelyn",
+    "style": "Soft",
+    "speed": 1.15,
+    "wordsPerMinute": 207,
+    "paragraphPauseSeconds": 0
+  },
+  "reference": "https://c-steele.github.io/group-lookit/?rev=guided-walkthrough-20261003",
+  "clips": [
+    {
+      "id": "01-welcome",
+      "page": "welcome",
+      "script": "Welcome, grown-ups! Thank you for joining us with your baby. We'll help you get comfortable, one step at a time. You'll need a computer, a quiet spot, and a little space to sit. Your baby will watch short movies, with no answers to give. You'll stay close, watch your baby, and help us know when to move on. These first pages are just for you. Your baby doesn't need to join until setup and practice are finished. When you're ready, choose Let's get set up.",
+      "seconds": 26.49,
+      "sha256": "3de4b02d374970e32f8e808072be06f26fb4d0b60ef938a31ca345ecf0f0b394"
+    },
+    {
+      "id": "02-setup-computer",
+      "page": "setup-computer",
+      "script": "First, use a laptop or desktop with a webcam, speakers, and a physical keyboard. Please don't use a phone or tablet.",
+      "seconds": 7.18,
+      "sha256": "2d5586d36f40c9737b8080ae800b47811d77a5b15f4f9d33159c9393e9a10660"
+    },
+    {
+      "id": "03-setup-room",
+      "page": "setup-room",
+      "script": "Second, find a quiet spot. Move toys and other distractions out of view, and turn off extra screens and other sound. Make sure their full face and both eyes are clearly visible, with even light. Avoid a bright window behind them.",
+      "seconds": 13.84,
+      "sha256": "4af81ebf9a2fac9b351a9a93f3929c1aeeb71563e3a05924b440ed2b99fe7562"
+    },
+    {
+      "id": "04-setup-camera",
+      "page": "setup-camera",
+      "script": "Make sure their full face and both eyes are clearly visible, with even light. Avoid a bright window behind them.",
+      "seconds": 6.9,
+      "sha256": "4f3f9f455042925102dd71a6d30d7794a6c7bf77448e778212d22a32fb669484"
+    },
+    {
+      "id": "05-setup-sound",
+      "page": "setup-sound",
+      "script": "Turn on your speakers at a comfortable volume.",
+      "seconds": 2.93,
+      "sha256": "615a6dd6fef31b2d724549ea743c6d01d54ec69b409ddd9d7f951c0db7fb5a26"
+    },
+    {
+      "id": "06-rule-finish",
+      "page": "finish",
+      "script": "First, let the movie finish. The space bar won't skip the action. After the action, the picture will stay still.",
+      "seconds": 7.68,
+      "sha256": "6bf765aec2cb5094adde758a0fe7856343b665badbbb265e74c8f36e3ef3ea2d"
+    },
+    {
+      "id": "07-rule-count",
+      "page": "count",
+      "script": "When the movie finishes, the picture will stay still. Now watch your baby's eyes. If your baby looks away from the screen for three full seconds without looking back, press the space bar once.",
+      "seconds": 10.79,
+      "sha256": "8a3271538698ac91ae1b3d66f11b92024608b21cdfb5c4c784929b6e50ca5379"
+    },
+    {
+      "id": "08-rule-count-real",
+      "page": "count-real",
+      "script": "This video shows what you will do during the study. Watch how this parent waits until their baby has looked away from the screen for three full seconds before pressing space.",
+      "seconds": 9.22,
+      "sha256": "b73e40adf6060e8a83d80d42f1af20664ab4b13273f7ae6c508355b308dcff96"
+    },
+    {
+      "id": "09-rule-reset",
+      "page": "reset",
+      "script": "What if your baby looks back before three seconds? Stop counting. The next time your baby looks away from the screen, start a new three-second count.",
+      "seconds": 8.91,
+      "sha256": "b3d25e88447443527bf8a782d5b0c517ec6141476db58084dcb3809f7dc7bb4e"
+    },
+    {
+      "id": "10-rule-reset-real",
+      "page": "reset-real",
+      "script": "A quick look back resets the count.",
+      "seconds": 2.53,
+      "sha256": "a732ab27ea7176675570a27c7167dcfd109012d499a228798c38f757d567309c"
+    },
+    {
+      "id": "11-rule-break",
+      "page": "break",
+      "script": "Need a break? Press P to pause. When you continue, that movie starts again from the beginning. Some movies move on by themselves.",
+      "seconds": 8.93,
+      "sha256": "a43680d4d813ec6345ecfa3bdc9947b97c31309ae8c63b563307d48b11657ff8"
+    },
+    {
+      "id": "12-practice",
+      "page": "practice",
+      "script": "Now try it yourself. Wait for the picture to become still. Then press space after the practice baby has looked away from the screen for three full seconds without looking back. If she looks back sooner, start a new count.",
+      "seconds": 13.35,
+      "sha256": "f85663d15482e10263cdacdcbfe3c127892a76698330bdc57295edd83bbc101f"
+    },
+    {
+      "id": "13-baby-ready",
+      "page": "ready",
+      "script": "You're ready for your baby to join. Your baby can sit in a high chair or on your lap. Make sure their full face and both eyes are clearly visible, with even light. Avoid a bright window behind them. Stay above and behind your baby, so your baby is the lowest, clearest face in the camera view. Keep the keyboard within your reach, but out of theirs. Please don't point, name shapes, describe the action, or encourage them to look. There is nothing for your baby to learn or answer. Help them sit comfortably facing the screen. You can take a break or stop at any time. When you're both ready, choose We're ready to watch.",
+      "seconds": 35.66,
+      "sha256": "d4900d4dafc688054fc8e0426f18ea22f8ba8700ead7a4abf68cdf4c78980630"
+    }
+  ],
+  "note": "All 13 project clips were batch-set and visibly verified at Evelyn 1.15x (207 WPM). Teaching counts use real-time 1000 ms intervals, not narration speed. Reference studies were not edited. MP4 lessons play narration first, then the real-time illustrated example. Original Raz training media remains at the authors’ OSF URLs."
+}
